@@ -47,7 +47,7 @@ public class GradeCalculation {
 		System.out.println("Average grade: " + average);
 		System.out.println("Status: " + status);
 		System.out.println("Student Grade: " + gradeAverage);
-		scanner.close();
+		
 	}
 
 }
