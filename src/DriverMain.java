@@ -7,10 +7,7 @@ public class DriverMain {
 		MilesToKm milesConvert = new MilesToKm();
 		LtreToGal litresConvert = new LtreToGal();
 		CurrencyEx CADUSD = new CurrencyEx();
-		
-		//Question 4
-		CADUSD.Convert();
-		
+
 		//Question 1
 		gradeCalc.GradeCalc();
 		
@@ -20,7 +17,8 @@ public class DriverMain {
 		//Question 3
 		litresConvert.Convert();
 		
-
+		//Question 4
+		CADUSD.Convert();
 		
 		
 
