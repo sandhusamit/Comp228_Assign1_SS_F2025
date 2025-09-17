@@ -11,6 +11,6 @@ public class LtreToGal {
 		litres = scanner.nextDouble();
 		double gallons = litres / 3.785;
 		
-		System.out.printf("%f Litres = %f US Liquid Gallons", litres, gallons);
+		System.out.printf("%f Litres = %f US Liquid Gallons \n", litres, gallons);
 	}
 }
